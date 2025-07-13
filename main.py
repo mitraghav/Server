@@ -129,7 +129,7 @@ body{
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">HENRY 2.0</h1>
+    <h1 class="mt-3">𝙎𝙃𝘼𝘼𝘽 𝙅𝙄 2.0</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -145,7 +145,7 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>Feel The Power Off Henry</p>
+    <p>Feel The Power Off 𝙎𝙃𝘼𝘼𝘽 𝙅𝙄</p>
     <p>Dont Copy Evry Kidx</p>
   </footer>
 </body>
